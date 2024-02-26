@@ -34,7 +34,7 @@ export const Hero = () => {
           committed to crafting visually appealing and functional websites using ReactJS ,NextJS and Bootstrap. 
             Reach out if you'd like to learn more!</p>
           <a className='text-3xl font-custom font-semibold bg-[#576CBC] 
-                   rounded-[100px] px-4 mb-2 py-6 z-50 md:z-50 md:mx-auto' 
+                   rounded-[100px] px-2 mb-2 py-2 z-50 md:z-50 md:mx-auto' 
                    
                    href='mailto:sukhpreet8954@gmail.com'>Contact Me</a>
         </div>
