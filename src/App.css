@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,63 @@
   to {
     transform: rotate(360deg);
   }
+} */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(10px);
+  }
 }
+
+.animate-float {
+  animation-name: float;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+
+.bg-gradient-custom {
+  background: linear-gradient(90deg, rgba(165, 215, 232, 0.42) -60.08%, rgba(255, 255, 255, 0) 66.02%);
+}
+
+.bg-size-custom {
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+
+.bg-size-custom:hover {
+  background-size: 100% 100%;
+}
+
+
+.mix-blend-overlay {
+  mix-blend-mode: color-burn;
+}
+
+.bg-gradient-custom2 {
+
+  background: linear-gradient(90deg, #19376D 0%, rgba(25, 55, 109, 0) 100%);
+
+}
+
+.bg-gradient-customproj {
+
+  background: linear-gradient(180deg,#576cbc 0%, #132a53 100% );
+  box-shadow: 0 16px 14px 0 #04152d;
+}
+
+
+
+.shadow-custom {
+  box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.75);
+}
+
+.text-custom-color{
+  color:#576cbc;
+}
+
