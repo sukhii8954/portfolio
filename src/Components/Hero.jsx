@@ -16,12 +16,12 @@ export const Hero = () => {
       
         <div className= 'relative w-full px-10 py-20 z-50 md:z-50 text-white  md:top-20'>
         
-        <h4 className='relative tracking-widest md:justify-normal text-2xl md:text-2xl mx-8 font-black md:text-nowrap mb-6 z-30 md:z-30'>Hi, My name is</h4>
+        <h4 className='relative tracking-widest md:justify-normal text-2xl md:text-2xl mx-24 font-black md:text-nowrap mb-6 z-30 md:z-30'>Hi, My name is</h4>
       
-        <h1 className='relative tracking-wide text-center  text-5xl md:text-7xl -mx-3 font-black text-wrap md:text-nowrap mb-6 z-30 md:z-30 
-          '>Sukhpreet Singh</h1>
+        <h1 className='relative tracking-wide text-center  text-5xl md:text-7xl  font-black text-wrap md:text-nowrap mb-6 z-30 md:z-30 
+        -left-10'>Sukhpreet Singh</h1>
     
-     <h1 className='relative  md:justify-normal text-2xl md:text-2xl mx-16 font-black md:text-nowrap mb-6 z-30 md:z-30'>
+     <h1 className='relative  md:justify-normal text-2xl md:text-2xl mx-24 font-black md:text-nowrap mb-6 z-30 md:z-30'>
        
        I'm a....
 
@@ -30,7 +30,7 @@ export const Hero = () => {
         
   
         
-          <p className='z-30 md:z-30 relative text-center md:justify-normal text-3xl mb-10 md:text-wrap'>I'm a Front-End Web developer,  
+          <p className='z-30 md:z-30 relative mx-14 text-center md:justify-normal text-3xl mb-10 md:text-wrap'>I'm a Front-End Web developer,  
           committed to crafting visually appealing and functional websites using ReactJS ,NextJS and Bootstrap. 
             Reach out if you'd like to learn more!</p>
           <a className='text-3xl font-custom font-semibold bg-[#576CBC] 
