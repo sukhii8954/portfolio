@@ -28,7 +28,7 @@ export const Hero = () => {
         <span>{typeEffect}</span>
       </h1>
         
-  
+      {/* @babel/plugin-proposal-private-property-in-object */}
         
           <p className='z-30 md:z-30 relative mx-14 text-center md:justify-normal text-3xl mb-10 md:text-wrap'>I'm a Front-End Web developer,  
           committed to crafting visually appealing and functional websites using ReactJS ,NextJS and Bootstrap. 
