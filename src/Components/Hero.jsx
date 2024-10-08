@@ -3,7 +3,7 @@ import bg1 from "../Assets/hero/avatar.png"
 import { Typewriter, useTypewriter } from 'react-simple-typewriter'
 export const Hero = () => {
   const [typeEffect] =useTypewriter({
-    words: ['Frontend Web Developer', 'Student' , 'Learner'],
+    words: ['Frontend Web Developer', 'graduate' , 'Learner' ,'Fresher'],
     loop: {},
     typeSpeed: 100,
     deleteSpeed:90 
