@@ -6,15 +6,15 @@ export const projectsdata =
       "title": "Project A",
       "imageSrc": imgproj,
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "CSS","API" ],
-      "demo": "https://youtube-clone-fend.netlify.app/",
-      "source": "https://github.com/sukhii8954/youtube-clone.git"
+      "skills": ["React", "Tailwind","API" ,"Next" ],
+      "demo": "https://srrentalapartment.netlify.app",
+      "source": "https://github.com/sukhii8954/property_rental_platform.git"
     },
     {
       "title": "Project B",
       "imageSrc": imgproj,
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "API" , "CSS3"],
+      "skills": ["React", "API" , "CSS3" , "javascript"],
       "demo": "https://mireactapp.netlify.app/",
       "source": "https://github.com/sukhii8954/Micloneapp.git"
     },
@@ -22,8 +22,8 @@ export const projectsdata =
       "title": "Project C",
       "imageSrc": imgproj,
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "BootStrap", "CSS3"],
-      "demo": "https://github.com/sukhii8954/resumerepo1.github.io.git",
-      "source": "https://github.com/sukhii8954/resumerepo1.github.io.git"
+      "skills": ["React", "Rapid API", "Tailwind" , "Vite"],
+      "demo": "https://fitness24x7app.netlify.app/",
+      "source": "https://github.com/sukhii8954/fitness24x7.git"
     }
   ]

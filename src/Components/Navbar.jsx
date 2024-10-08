@@ -21,7 +21,7 @@ export const Navbar = () => {
             <a 
             target={"_blank"}
             without rel="noreferrer" 
-            href="https://drive.google.com/file/d/1cKPabX6t3rttf3TGBon6d7q9pp_dtQlf/view?usp=drive_link">
+            href="https://drive.google.com/file/d/1b5NzCmip4clvAzLg0iwhuXUlRu2Mm6rb/view?usp=sharing">
 
             <button className='border border-solid rounded p-1 hover:bg-[#576cbc]'>Resume</button>
             </a>
